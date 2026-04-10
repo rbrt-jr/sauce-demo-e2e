@@ -1,0 +1,7 @@
+#cypress
+cypress/downloads
+
+
+#env
+.env.dev
+.env.qa
